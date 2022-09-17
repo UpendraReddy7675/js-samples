@@ -5,3 +5,4 @@ let Upendra={
     weight:75
 }
 console.log(Upendra.lastName);
+console.log(Upendra.height);
