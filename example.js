@@ -7,3 +7,4 @@ let emp={
     }
 };
 console.log(emp);
+console.log(emp.study);
