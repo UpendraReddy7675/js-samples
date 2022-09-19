@@ -6,5 +6,7 @@ let emp={
     Inter:"sriChaitanya jr College",
     }
 };
+
+let {name,age,study}=emp;
 console.log(emp);
 console.log(emp.study);
